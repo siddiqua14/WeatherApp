@@ -26,7 +26,7 @@ body::before {
 }
 
 .card {
-    width: 394px;
+    width: 335px;
     /* height: 496px;*/
     z-index: 1;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.15), rgba(255, 255, 255, 0.15));
